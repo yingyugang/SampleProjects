@@ -1,0 +1,47 @@
+<FactoryMachinePosition>
+  <Position>
+    
+    <Machine ID ="1">
+      <Machine Position="1" X="-0.2705433"  Y="1.060744"  	/>
+      <Machine Position="2" X="1.719964" 	Y="0.1633684"  	/>
+      <Machine Position="3" X="3.755501" 	Y="-0.704472"  	/>
+      <Machine Position="4" X="-3.852252" 	Y="-0.2630231"  	/>
+      <Machine Position="5" X="-1.89299" 	Y="-1.400239" 	/>
+      <Machine Position="6" X="0.1370483" 	Y="-2.563414" 	/>
+    </Machine>
+    
+    <Machine ID ="2">
+      <Machine Position="1" X="-0.3285369"  Y="1.320652"  	/>
+      <Machine Position="2" X="1.505144" 	Y="0.4205443"  	/>
+      <Machine Position="3" X="3.523072" 	Y="-0.3951373"  	/>
+      <Machine Position="4" X="-3.855832" 	Y="0.01072249"  	/>
+      <Machine Position="5" X="-2.098223" 	Y="-1.091253" 	/>
+      <Machine Position="6" X="-0.1850398" 	Y="-2.210313" 	/>
+    </Machine>
+    
+    <Machine ID ="3">     
+      <Machine Position="1" X="-0.4456066"  Y="1.256628"  	/>
+      <Machine Position="2" X="1.676198" 	Y="0.3707263"  	/>
+      <Machine Position="3" X="3.782589" 	Y="-0.5148544"  	/>
+      <Machine Position="4" X="-3.818896" 	Y="0.03080447"  	/>
+      <Machine Position="5" X="-1.827341" 	Y="-1.116823" 	/>
+      <Machine Position="6" X="0.3339946" 	Y="-2.384207" 	/>
+    </Machine>
+
+    <Machine ID ="4">
+      <Machine Position="1" X="-0.2309325"  Y="1.114452"  	/>
+      <Machine Position="2" X="1.823227" 	Y="0.2227561"  	/>
+      <Machine Position="3" X="3.945119" 	Y="-0.5148548"  	/>
+      <Machine Position="4" X="-3.773485" 	Y="-0.2419593"  	/>
+      <Machine Position="5" X="-1.80996" 	Y="-1.302528" 	/>
+      <Machine Position="6" X="0.1473491" 	Y="-2.362913" 	/>
+    </Machine>
+    
+  </Position>
+  <LevelIntroduce>
+    <Level ID="1"/>
+    <Level ID="4"/>
+    <Level ID="8"/>
+    <Level ID="13"/>
+  </LevelIntroduce>
+</FactoryMachinePosition>

@@ -1,0 +1,14 @@
+id,param_name,value,description
+1,stage1_questions,5,ステージ1の問題数
+2,stage2_questions,5,ステージ2の問題数
+3,stage3_questions,5,ステージ3の問題数
+4,stage1_time_limit,10,ステージ1問題の制限時間
+5,stage2_time_limit,10,ステージ2問題の制限時間
+6,stage3_time_limit,10,ステージ3問題の制限時間
+7,last_stage_bonus_time,30,最終ステージの補償時間
+8,stage_clear_bonus_rate,1,最終ステージに+される123部の秒数の係数
+9,comb_var1,10,スコアの係数
+10,comb_var2,20,連続正解ボーナスの係数
+11,comb_var3,30,最高連続正解ボーナスの係数 
+12,item_span_second,30,最終ステージで残り○秒内黒丸効果発動
+13,item_appear_percentage,50,黒丸効果発動確率

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b6.1">
+    <folder id="0">
+        <file id="0" name="nangtienca.png" width="227" height="160" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="nangtienca1.png" width="223" height="110" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="NangtienCa">
+        <obj_info name="bone_070" type="bone" w="200" h="10"/>
+        <animation id="0" name="nang tien ca" length="1500">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="2" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="0" z_index="1"/>
+                </key>
+                <key id="1" time="734">
+                    <bone_ref id="0" timeline="2" key="1"/>
+                    <object_ref id="0" parent="0" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="1" z_index="1"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="nangtienca">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="389.40683" y="178.729586" angle="273.106027" scale_x="1.935138"/>
+                </key>
+                <key id="1" time="734" spin="0">
+                    <object folder="0" file="0" x="392.757659" y="177.820179" angle="273.106027" scale_x="1.942468" scale_y="1.004235"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="nangtienca1">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="189.351272" y="156.440742" angle="273.106027" scale_x="1.935138" a="0.41667"/>
+                </key>
+                <key id="1" time="734" spin="0">
+                    <object folder="0" file="1" x="201.120201" y="156.770757" angle="273.106027" scale_x="1.935138" scale_y="1.055119"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="0" name="bone_070" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-72.8" y="3.2" angle="86.893973" scale_x="0.516759"/>
+                </key>
+                <key id="1" time="734">
+                    <bone x="-70.8" y="5.2" angle="86.893973" scale_x="0.516759"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

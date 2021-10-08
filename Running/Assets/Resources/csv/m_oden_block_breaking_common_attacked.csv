@@ -1,0 +1,5 @@
+id,min,max,color
+1,0,2,red
+2,2,5,yellow
+3,5,12,green
+4,12,9999,white

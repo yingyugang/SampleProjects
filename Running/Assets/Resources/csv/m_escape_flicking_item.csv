@@ -1,0 +1,6 @@
+id,,name,image_resource,appear_probability,reduction_percentage,effect_type,effect_value
+1,,score1,,10,0,1,120
+2,,score2,,30,0,1,40
+3,,score3,,60,0,1,20
+4,,clock,,8,10,2,12
+5,,star,,8,10,3,10

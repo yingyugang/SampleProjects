@@ -1,0 +1,12 @@
+id,name,image_resource,item_type,effect_value1,effect_value2,percentage,reduction_percentage,description
+1,"ヒッチハイク","hitchHike_dekapan",2,0.0,0.0,0,0,"死んだキャラを回復させる"
+2,"拡大アイテム","icon_dekapandrag",3,3.0,10.0,100,0,"10秒有効、3倍拡大"
+3,"松","scoreItem_1",1,60.0,0.0,10,0,"5ポイント獲得"
+4,"ジャンプ台","jump_1",4,0.0,0.0,100,0,"ジャンプ台は確実出現"
+5,"岩（荒野）","obstacle_1",1,0.0,0.0,100,0,"enemy hit"
+6,"切り株（森）","obstacle_2",1,0.0,0.0,100,0,"enemy hit"
+7,"柵（村）","obstacle_3",1,0.0,0.0,100,0,"enemy hit"
+8,"おでん","scoreItem_2",1,20.0,0.0,30,0,"20ポイント獲得"
+9,"おにぎり","scoreItem_3",1,10.0,0.0,60,0,"30ポイント獲得"
+10,"拡大アイテム","icon_dekapandrag_l",3,10.0,10.0,100,0,"10秒有効、10倍拡大"
+11,"ランダムアイテム（松竹梅）","scoreItem_4",1,30.0,0.0,10,0,"30ポイント獲得"

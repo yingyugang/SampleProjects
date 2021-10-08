@@ -1,0 +1,81 @@
+<ProductInformation>
+  <Product1>
+    <Material  Count="1" ID1="1" Quantity1="2"/>
+    <Product 	 IDProduction="7"  Name="BREAD"  ProductionTime="19" ProductionCostShop="20" ProductionCostMarket="85" LevelMachineUnlock ="1"/>
+  </Product1>
+  
+  <Product2>
+    <Material  Count="2" ID1="1" Quantity1="2" ID2="7" Quantity2="1"/>
+    <Product 	IDProduction="8" Name="COOKIE" ProductionTime="20" ProductionCostShop="40" ProductionCostMarket="90" LevelMachineUnlock ="4"/>
+  </Product2>
+
+  <Product3>
+    <Material  Count="2" ID1="1" Quantity1="2" ID2="3" Quantity2="1"/>
+    <Product 	IDProduction="9" Name="GRAPESPIE" ProductionTime="20" ProductionCostShop="32" ProductionCostMarket="95" LevelMachineUnlock ="3"/>
+  </Product3>
+  
+  <Product4>
+    <Material  Count="2" ID1="1" Quantity1="2" ID2="4" Quantity2="1"/>
+    <Product 	IDProduction="10" Name="STRAWBERRYPIE" ProductionTime="20" ProductionCostShop="35" ProductionCostMarket="96" LevelMachineUnlock ="2"/>
+  </Product4>
+  
+  <Product5>
+    <Material  Count="2" ID1="1" Quantity1="2" ID2="9" Quantity2="1"/>
+    <Product 	IDProduction="11" Name="SHRIMPCAKE" ProductionTime="21" ProductionCostShop="54" ProductionCostMarket="92" LevelMachineUnlock ="4"/>
+  </Product5>
+
+  <Product6>
+    <Material  Count="1" ID1="8" Quantity1="1"/>
+    <Product 	IDProduction="12" Name="FISHROAST" ProductionTime="20" ProductionCostShop="36" ProductionCostMarket="80" LevelMachineUnlock ="1"/>
+  </Product6>
+
+  <Product7>
+    <Material  Count="1" ID1="5" Quantity1="1"/>
+    <Product 	IDProduction="13" Name="CHICKENROAST" ProductionTime="20" ProductionCostShop="20" ProductionCostMarket="85" LevelMachineUnlock ="2"/>
+  </Product7>
+
+  <Product8>
+    <Material  Count="2" ID1="1" Quantity1="2" ID2="6" Quantity2="1"/>
+    <Product 	IDProduction="14" Name="HAMBURGER" ProductionTime="21" ProductionCostShop="40" ProductionCostMarket="99" LevelMachineUnlock ="3"/>
+  </Product8>
+
+  <Product9>
+    <Material  Count="1" ID1="2" Quantity1="1"/>
+    <Product 	IDProduction="15" Name="TOMATO" ProductionTime="19" ProductionCostShop="20" ProductionCostMarket="80" LevelMachineUnlock ="3"/>
+  </Product9>
+
+  <Product10>
+    <Material  Count="1" ID1="3" Quantity1="1"/>
+    <Product 	IDProduction="16" Name="GRAPES" ProductionTime="19" ProductionCostShop="20" ProductionCostMarket="85" LevelMachineUnlock ="2"/>
+  </Product10>
+
+  <Product11>
+    <Material  Count="1" ID1="4" Quantity1="1"/>
+    <Product 	IDProduction="17" Name="STRAWBERRY" ProductionTime="19" ProductionCostShop="25" ProductionCostMarket="82" LevelMachineUnlock ="1"/>
+  </Product11>
+
+  <Product12>
+    <Material   Count="2" ID1="7" Quantity1="1" ID2="4" Quantity2="1"/>
+    <Product 	IDProduction="18" Name="STRAWBERRYMILK" ProductionTime="20" ProductionCostShop="44" ProductionCostMarket="88" LevelMachineUnlock ="2"/>
+  </Product12>
+
+  <Product13>
+    <Material  Count="1" ID1="7" Quantity1="1"/>
+    <Product 	IDProduction="19" Name="FRESHMILK" ProductionTime="19" ProductionCostShop="24" ProductionCostMarket="80" LevelMachineUnlock ="0"/>
+  </Product13>
+
+  <Product14>
+    <Material  Count="1" ID1="7" Quantity1="2"/>
+    <Product 	IDProduction="20" Name="BUTTER" ProductionTime="20" ProductionCostShop="48" ProductionCostMarket="86" LevelMachineUnlock ="3"/>
+  </Product14>
+
+  <Product15>
+    <Material   Count="2" ID1="7" Quantity1="1" ID2="3" Quantity2="1"/>
+    <Product 	IDProduction="21" Name="GRAPESMILK" ProductionTime="21" ProductionCostShop="52" ProductionCostMarket="84" LevelMachineUnlock ="4"/>
+  </Product15>
+
+  <Product16>
+    <Material  Count="1" ID1="7" Quantity1="2"/>
+    <Product 	IDProduction="22" Name="CHEESS" ProductionTime="20" ProductionCostShop="50" ProductionCostMarket="90" LevelMachineUnlock ="1"/>
+  </Product16>
+</ProductInformation>

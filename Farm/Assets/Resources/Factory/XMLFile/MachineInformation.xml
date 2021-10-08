@@ -1,0 +1,22 @@
+<MachineInformation>
+  <Machine>
+    <Information ID="1" NameVie="Máy Làm Bánh" NameEng="Bakery Machine"  Cost="230"/>
+    <ProductOfMachine IDProduct1= "7" IDProduct4= "10" IDProduct3= "9" IDProduct2= "8"/>
+    <RatioFail Level1="8" Level2="6" Level3="4" Level4="2" />
+  </Machine>
+  <Machine>
+    <Information ID="2" NameVie="Máy Làm Thịt" NameEng="BBQ Grill Machine"  Cost="250"/>
+    <ProductOfMachine  IDProduct2= "12" IDProduct3= "13" IDProduct4= "14" IDProduct1= "11"/>
+    <RatioFail Level1="8" Level2="6" Level3="4" Level4="2" />
+  </Machine>
+  <Machine>
+    <Information ID="3" NameVie="Máy Rửa Hoa Quả" NameEng="Fruit Machine"  Cost="220"/>
+    <ProductOfMachine IDProduct3= "17" IDProduct2= "16" IDProduct1= "15"/>
+    <RatioFail Level1="8" Level2="6" Level3="4" Level4="2" />
+  </Machine>
+  <Machine>
+    <Information ID="4" NameVie="Máy Làm Sữa" NameEng="Milk Machine"  Cost="300"/>
+    <ProductOfMachine IDProduct2= "19" IDProduct5= "22" IDProduct1= "18" IDProduct3= "20" IDProduct4= "21" />
+    <RatioFail Level1="9" Level2="7" Level3="5" Level4="2" />
+  </Machine>
+</MachineInformation>

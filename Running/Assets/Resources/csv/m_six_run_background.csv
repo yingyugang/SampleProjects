@@ -1,0 +1,6 @@
+id,name,image_resource,appear_distance
+1,back01,back01,0
+2,back02,back02,100
+3,back03,back03,210
+4,back04,back04,320
+5,back01,back01,430

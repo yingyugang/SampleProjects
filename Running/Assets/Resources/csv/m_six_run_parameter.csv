@@ -1,0 +1,14 @@
+id,name,value,description
+1,flick_sensitivity,50,フリックの感度
+2,player_lifes,2,残機数
+3,start_distance,0,開始距離
+4,fever_time,6,フィーバータイムの時間(秒)
+5,player_move_speed,1.2,自キャラ速度が何倍か?
+6,speed_up_meters,"1,000.0",何メートルごとスピードアップ
+7,speed_up_percentage,10,何メートルごとスピードアップのパーセンテージ
+8,jump_height,10.0,自キャラのジャンプの高さ
+9,shee_jump_height,25,自キャラのシェージャンプの高さ間(秒)
+10,jump_return,0.6,ジャンプ時の戻るまでの時間
+11,shee_jump_return,0.8,シェージャンプ時の戻るまでの時間
+12,sliding_return,0.6,スライディング時の戻るまでの時間
+13,flick_return,0.6,横にキャラを寄せたとき（左右フリック時）の戻るまでの時間

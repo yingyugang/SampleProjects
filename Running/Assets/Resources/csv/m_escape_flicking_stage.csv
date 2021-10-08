@@ -1,0 +1,6 @@
+id,name,m_escape_flicking_map_id,background_image_resource,appear_probability
+1,Map1,1,Background3,0
+2,Map2,2,Background3,7000
+3,Map3,3,Background3,2000
+4,Map4,4,Background3,1000
+5,Map5,5,Background5,1

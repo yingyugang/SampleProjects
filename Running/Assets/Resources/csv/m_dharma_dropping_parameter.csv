@@ -1,0 +1,14 @@
+id,para_name,value,description
+1,game_time,60,ゲームの制限時間
+2,flick_speed,50,フリックした時の積み木が横に飛ぶ速度
+3,down_speed,50,隙間が空いた時、上から落ちてくる積み 木の落下速度
+4,flick_sensitivity,50,フリックの感度
+5,comb_second,2.01,コンボ発生条件のフリック秒数
+6,totoko_animation_speed,1.02,トト子をフリックした時のハートアニメーションの速さ
+7,arrow_percentage,20,矢印(向き指定)付きターゲットの出現確率、20%
+8,totoko_add_second,5,トト子をフリックした時に何秒回復するか?
+9,target_animation_speed,3,ターゲットが切り替わる時のアニメーション速度
+10,total_comb_var,2.03,累計コンボ係数
+11,comb_var1,2.03,累計コンボ係数
+12,comb_var2,2.03,累計コンボ係数
+13,comb_var3,2.03,累計コンボ係数

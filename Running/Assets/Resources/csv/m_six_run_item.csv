@@ -1,0 +1,11 @@
+id,name,item_resource,height_offset,width,height,effect_type,effect_value,move_speed,percentage,description
+1,障害物1穴,hole,0,1,1,0,,0,50,
+2,障害物2デカパン,dekapan,0,6,2,1,,3,50,全
+3,障害物3おでん串,chibita,1,6,9,1,,3,50,全
+4,障害物4ハタ坊,hatabou,0,4,9,1,,3,4,
+5,スコアアイテム1,tree,0,1,1,2,15,0,17,15point item
+6,スコアアイテム2,oden,0,1,1,2,10,0,25,10point item
+7,スコアアイテム3,rice,0,1,1,2,3,0,10,3point item
+8,無敵アイテム,totoko,0,1,1,3,,0,50,无敌
+9,gate,gate,0,6,9,-1,,0,100,全
+10,random,random,0,1,1,4,,0,100,random

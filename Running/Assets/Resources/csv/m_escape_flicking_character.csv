@@ -1,0 +1,11 @@
+id,name,image_resource,appear_time,logic_type,logic_value,speed
+1,Osomatsu,,0,0,,1.2
+2,Karamatsu,,0,2,,2
+3,Chocomatsu,,0,0,,1.8
+4,Ichimatsu,,0,3,,1.2
+5,Jyushimatsu,,30,1,40,1
+6,Dayon,,60,0,,1.5
+7,Dekapan,,90,1,50,1
+8,Chibita,,120,0,,2
+9,Hatabou,,150,1,60,1
+10,KiyoshiSawa Shonosuke,,250,0,,2.2

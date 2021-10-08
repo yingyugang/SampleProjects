@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/game/games/sixrun/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/game/games/sixrun/GameManager.cs" Line="1027" Column="4" />
+      <File FileName="Assets/Scripts/game/games/sixrun/GameParams.cs" Line="13" Column="63" />
+      <File FileName="Assets/Scripts/game/games/sixrun/SixRunBtn.cs" Line="55" Column="3" />
+      <File FileName="Assets/Scripts/game/games/sixrun/Unit.cs" Line="263" Column="41" />
+      <File FileName="Assets/Scripts/game/frame/common/utility/CardRate.cs" Line="71" Column="40" />
+      <File FileName="Assets/Scripts/game/games/Header.cs" Line="190" Column="1" />
+      <File FileName="Assets/Scripts/game/frame/common/constant/ComponentConstant.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/game/frame/common/popup/PopupContentMediator.cs" Line="6" Column="1" />
+      <File FileName="Assets/Resources/csv/m_six_run_parameter.csv" Line="9" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

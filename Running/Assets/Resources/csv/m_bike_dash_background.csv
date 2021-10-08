@@ -1,0 +1,8 @@
+id,name,image_resource,appear_distance
+1,forest,,0
+2,snow,,600
+3,jungle,,1200
+
+4,forest,,1800
+5,snow,,2400
+6,jungle,,3000

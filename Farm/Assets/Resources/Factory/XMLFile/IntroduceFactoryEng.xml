@@ -1,0 +1,22 @@
+<Introduce Scren="Factory" language="Eng">
+  <Level Level="1">
+    <Content  Text="Factory will help you to produce products. This position has been locked, you cannot put machine."/>
+    <Content  Text="This position has been unlocked, you can put machine."/>
+    <Content  Text="Tap into the position which is unlocked, and select machine that you want to buy.If you want to see more details about machine, you can tap and hold on machine icon." />
+    <Content  Text="Now, you have machine. Let's start to produce."/>
+    <Content  Text="Each machine can produce some kind of products. Make sure you have enough materials to produce. Tap and hold on the product to see more details."/>
+    <Content  Text="Everything is ready. Let's try to produce bread!"/>
+    <Content  Text="If you use a diamond you will complete the production of bread immediately."/>
+    <Content  Text="Now you're getting the product, it will be moving to the shop. It's very simple!"/>
+  </Level>
+  <Level Level="4">
+    <Content Text="If you think some machines are unnecessary, you can sell them and get back 30% of machine's price. Tap into machine and select sell button." />
+  </Level>
+  <Level Level="8">
+    <Content Text="In factory, you can use diamond to unlock position to put machine. Tap into the position that you want to unlock." />
+    <Content Text="Everything is ready!Let's start!" />
+  </Level>
+  <Level Level="13">
+    <Content Text="Your machine is broken because it work for a long long time. Don't worry, you can tap on the machine to fix it!" />
+  </Level>
+</Introduce>

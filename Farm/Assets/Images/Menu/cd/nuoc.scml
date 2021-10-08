@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b6.1">
+    <folder id="0">
+        <file id="0" name="cay.png" width="112" height="144" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="1" name="lon">
+        <file id="0" name="lon/lon8.png" width="46" height="43" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="lon/lon7.png" width="32" height="44" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="lon/lon6.png" width="10" height="12" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="lon/lon5.png" width="10" height="12" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="lon/lon4.png" width="12" height="12" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="lon/lon3.png" width="8" height="10" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="lon/lon2.png" width="14" height="12" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="lon/lon1.png" width="64" height="56" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="lon/lon1b.png" width="64" height="56" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="lon/lon1a.png" width="64" height="56" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="2" name="khoi nha">
+        <file id="0" name="khoi nha/smoke1.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="khoi nha/smoke3.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="khoi nha/smoke2.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="khoi nha/smoke4.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="khoi nha/smoke5.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="khoi nha/smoke6.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="khoi nha/smoke7.png" width="90" height="90" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="3" name="bo">
+        <file id="0" name="bo/bo9.png" width="201" height="59" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="bo/bo8.png" width="99" height="40" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="bo/bo2.png" width="115" height="112" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="bo/bo4.png" width="101" height="98" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="bo/bo3.png" width="141" height="102" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="bo/bo6.png" width="124" height="90" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="bo/bo1.png" width="121" height="68" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="bo/bo5.png" width="101" height="79" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="bo/bo4a.png" width="101" height="98" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="bo/bo4b.png" width="101" height="98" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="bo/bo2b.png" width="115" height="112" pivot_x="0" pivot_y="1"/>
+        <file id="11" name="bo/bo2a.png" width="115" height="112" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="4" name="nuoc">
+        <file id="0" name="nuoc/Layer45.jpg" width="1280" height="720" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="nuoc/1.png" width="1280" height="242" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="nuoc/cay.png" width="360" height="169" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="nuoc/3.png" width="1280" height="242" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="nuoc/2a.png" width="1280" height="242" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="song">
+        <obj_info name="bone_014" type="bone" w="200" h="10"/>
+        <animation id="0" name="song" length="1500">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="3" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="2" key="0" z_index="2"/>
+                </key>
+                <key id="1" time="587">
+                    <bone_ref id="0" timeline="3" key="1"/>
+                    <object_ref id="0" parent="0" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="2" key="1" z_index="2"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="1">
+                <key id="0" spin="0">
+                    <object folder="4" file="1" x="264.504747" y="611.078748" angle="268.814739" scale_x="1.034261"/>
+                </key>
+                <key id="1" time="587" spin="0">
+                    <object folder="4" file="4" x="264.504747" y="611.078748" angle="268.814739" scale_x="1.034261"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="3">
+                <key id="0" spin="0">
+                    <object folder="4" file="3" x="263.388565" y="609.862716" angle="268.814739" scale_x="1.034261" scale_y="1.012409" a="0.30556"/>
+                </key>
+                <key id="1" time="587" spin="0">
+                    <object folder="4" file="3" x="274.72352" y="612.63661" angle="268.814739" scale_x="1.034261" scale_y="1.046003"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="cay_000">
+                <key id="0" spin="0">
+                    <object folder="4" file="2" x="165.826757" y="-243.368607" angle="268.814739" scale_x="1.034261"/>
+                </key>
+                <key id="1" time="587" spin="0">
+                    <object folder="4" file="2" x="174.869648" y="-246.550146" angle="268.814739" scale_x="1.034261" scale_y="1.051961"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="0" name="bone_014" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-665.333333" y="5.333333" angle="91.185261" scale_x="0.966874"/>
+                </key>
+                <key id="1" time="587">
+                    <bone x="-665.333333" y="5.333333" angle="91.185261" scale_x="0.966874"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

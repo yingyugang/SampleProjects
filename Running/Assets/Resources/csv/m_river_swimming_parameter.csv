@@ -1,0 +1,13 @@
+id,param_name,value,description
+1,river_speed,1,a
+2,player_speed,1,a
+3,player_lifes,3,a
+4,item_span_second,5,a
+5,item_appear_percentage,20,a
+6,obstacle_appear_percentage,10,a
+7,obstacle_appear_span_second,5,a
+8,start,0,a
+9,flick_sensivity,50,a
+10,notch_after_2,3000,a
+11,speed_up_metters,1500,a
+12,speed_up_percentage,10,a

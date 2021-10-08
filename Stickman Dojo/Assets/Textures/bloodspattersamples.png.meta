@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: a465b7c481b7415479d0cf3d718720c4
+timeCreated: 1432208932
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bloodspattersamples_0
+    21300002: bloodspattersamples_1
+    21300004: bloodspattersamples_2
+    21300006: bloodspattersamples_3
+    21300008: bloodspattersamples_4
+    21300010: bloodspattersamples_5
+    21300012: bloodspattersamples_6
+    21300014: bloodspattersamples_7
+    21300016: bloodspattersamples_10
+    21300018: bloodspattersamples_11
+    21300020: bloodspattersamples_12
+    21300022: bloodspattersamples_14
+    21300024: bloodspattersamples_15
+    21300026: bloodspattersamples_16
+    21300028: bloodspattersamples_17
+    21300030: bloodspattersamples_18
+    21300032: bloodspattersamples_19
+    21300034: bloodspattersamples_20
+    21300036: bloodspattersamples_21
+    21300038: bloodspattersamples_22
+    21300040: bloodspattersamples_23
+    21300042: bloodspattersamples_24
+    21300044: bloodspattersamples_25
+    21300046: bloodspattersamples_26
+    21300048: bloodspattersamples_27
+    21300050: bloodspattersamples_28
+    21300052: bloodspattersamples_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bloodspattersamples_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 146
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 141
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 145
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 153
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 112
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 114
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 81
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 90
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 82
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 53
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 54
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 49
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 54
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 22
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 19
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloodspattersamples_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

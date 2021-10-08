@@ -1,0 +1,10 @@
+"id","name","description","image_resource","ap","open_need_ticket","open_need_free_ticket","default_open","open_start_time","first_clear_reward_item_id","reward_num","open_animation"
+1,"むつごおとし","むつごおとし","Game_Detail1",1,0,0,1,"",2,10,0
+2,"逃走!!パチンコ警察24時","逃走!!パチンコ警察24時","Game_Detail2",1,0,0,1,"",2,10,1
+3,"川登りハッスル","川登りハッスル","Game_Detail3",1,0,0,1,"",2,10,1
+4,"おでんくずし","おでんくずし","Game_Detail4",1,40,400,0,"",2,10,0
+5,"シェー！の練習","シェー！の練習","Game_Detail5",1,40,400,0,"",2,10,1
+6,"バイク走〜北へ〜","バイク走〜北へ〜","Game_Detail6",1,40,400,0,"",2,10,1
+7,"シックスラン","シックスラン","Game_Detail7",1,80,800,0,"",2,10,0
+8,"おそ松銭湯シーン当て","おそ松銭湯シーン当て","Game_Detail8",1,80,800,0,"",2,10,0
+9,"石油王～トト子と×××～","石油王～トト子と×××～","Game_Detail9",1,80,800,0,"",2,10,0

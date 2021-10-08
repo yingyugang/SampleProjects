@@ -1,0 +1,13 @@
+id,name,image_resource,appear_distance,background_image,direction
+1,osomatsu,,100,,2
+2,karamatsu,,200,,2
+3,choromatsu,,300,,2
+4,ichimatsu,,400,,1
+5,todomatsu,,600,,1
+6,totoko,,800,evening,1
+7,hatabou,,1000,evening,2
+8,dayon,,1200,evening,1
+9,dekapan,,1400,evening,1
+10,chibita,,1600,night,2
+11,iyami,,1800,night,1
+12,shonosuke,,2200,morning,1

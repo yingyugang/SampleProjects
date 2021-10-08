@@ -1,0 +1,5 @@
+id,name,image_resource,effect_type,effect_value,appear_probality
+1,immortal,,2,10,8
+2,oden,,1,30,30
+3,rice,,1,10,60
+4,tree,,1,100,10

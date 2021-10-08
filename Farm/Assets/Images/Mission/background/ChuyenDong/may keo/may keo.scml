@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b6.1">
+    <folder id="0">
+        <file id="0" name="MAY.png" width="123" height="128" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="MAY2.png" width="35" height="31" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="MAY3.png" width="23" height="21" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="MAY4.png" width="19" height="20" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="MAY1.png" width="83" height="56" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="Oto">
+        <obj_info name="bone_033" type="bone" w="200" h="10"/>
+        <animation id="0" name="may keo" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="4" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="3" key="0" z_index="3"/>
+                </key>
+                <key id="1" time="490">
+                    <bone_ref id="0" timeline="4" key="1"/>
+                    <object_ref id="0" parent="0" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="1" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="2" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="3" key="1" z_index="3"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="MAY2">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="157.63372" y="-4.168299" angle="270.753848" scale_x="7.236216"/>
+                </key>
+                <key id="1" time="490" spin="0">
+                    <object folder="0" file="1" x="128.819835" y="-4.220693" angle="270.753848" scale_x="7.236216" scale_y="0.87358"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="MAY3">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="27.557556" y="28.416201" angle="270.753848" scale_x="7.236216"/>
+                </key>
+                <key id="1" time="490" spin="0">
+                    <object folder="0" file="2" x="9.879695" y="28.384056" angle="270.753848" scale_x="7.236216" scale_y="0.886364"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="MAY4">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="75.722693" y="54.596949" angle="270.753848" scale_x="7.236216"/>
+                </key>
+                <key id="1" time="490" spin="0">
+                    <object folder="0" file="3" x="62.559246" y="54.573013" angle="270.753848" scale_x="7.236216" scale_y="0.911255"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="MAY1">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="316.470486" y="48.125021" angle="270.753848" scale_x="7.236216"/>
+                </key>
+                <key id="1" time="490" spin="0">
+                    <object folder="0" file="4" x="331.078976" y="48.151584" angle="270.753848" scale_x="7.236216" scale_y="0.962046"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="0" name="bone_033" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-68.727273" y="16" angle="89.246152" scale_x="0.138194"/>
+                </key>
+                <key id="1" time="490">
+                    <bone x="-68.727273" y="16" angle="89.246152" scale_x="0.138194"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

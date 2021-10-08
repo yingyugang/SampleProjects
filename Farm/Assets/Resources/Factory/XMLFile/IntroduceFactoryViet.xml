@@ -1,0 +1,22 @@
+<Introduce Scren="Factory" language="VietNam">
+  <Level Level="1">
+    <Content  Text="Nhà máy là nơi sản xuất các sản phẩm. Đây là những vị trí bị hỏng và bạn không thể đặt máy. Nhưng chúng ta có thể sửa chữa nó sau."/>
+    <Content  Text="Đây là những vị trí tốt, bạn có thể đặt được máy."/>
+    <Content  Text="Chạm vào vị trí bạn muốn đặt máy, sau đó chạm vào máy để mua chúng. Nếu bạn muốn xem thông tin chi tiết về máy, hãy nhấn và giữ vào máy." />
+    <Content  Text="Bạn làm rất tốt! Máy đã có. Chúng ta hãy bắt đầu việc sản xuất ngay bây giờ nhé!"/>
+    <Content  Text="Chạm vào máy để xem các sản phẩm mà máy có thể sản xuất. Bạn hãy nhấn và giữ vào sản phẩm để xem nguyên liệu cần thiết."/>
+    <Content  Text="Nguyên liệu đã đủ! Tất cả mọi thứ đã sẵn sàng! Bây giờ, bạn hãy chạm vào bánh mì để sản xuất nhé!"/>
+    <Content  Text="Bạn có thể hoàn thành việc sản xuất bánh mì ngay lập tức bằng cách sử dụng kim cương. Hãy chạm vào để sử dụng kim cương."/>
+    <Content  Text="Sản phẩm đầu tiên đã ra lò. Nó sẽ được chuyển tới cửa hàng để bán. Thật đơn giản phải không nào!"/>
+  </Level>
+  <Level Level="4">
+    <Content Text="Nếu bạn thấy máy không cần thiết, bạn hãy bán chúng và nhận lại 30% giá trị của máy. Chạm vào máy và chọn bán máy." />
+  </Level>
+  <Level Level="8">
+    <Content Text="Trong nhà máy, bạn cũng có thể sử dụng kim cương để sửa chữa những chỗ bị hỏng, mở rộng vị trí đặt máy. Hãy chạm vào vị trí đó." />
+    <Content Text="Mọi thứ đã sẵn sàng, cùng bắt đầu một ngày làm việc mới nào!" />
+  </Level>
+  <Level Level="13">
+    <Content Text="Máy móc của bạn đã làm việc quá nhiều nên nó đang bị hỏng. Nhưng bạn không cần quá lo lắng, chỉ cần chạm vào máy để sửa chữa cho chúng!" />
+  </Level>
+</Introduce>

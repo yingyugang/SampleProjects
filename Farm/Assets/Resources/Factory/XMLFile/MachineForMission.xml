@@ -1,0 +1,28 @@
+<MachineInfor>
+	<Mission1>
+		<MachineCount   Count="1" Machine1="1" />
+    <MachineLevel             Level1 ="1"/>
+		<Product        Count="1" Type1="7" />
+	</Mission1>
+	
+  <Mission2>
+		<MachineCount   Count="1" Machine1="1" />
+    <MachineLevel             Level1 ="1"/>
+		<Product        Count="1" Type1="7" />
+	</Mission2>
+  
+    <Mission3>
+		<MachineCount   Count="1" Machine1="1" />
+    <MachineLevel             Level1 ="1"/>
+		<Product        Count="1" Type1="7" />
+	</Mission3>
+  
+	<Mission4>
+    <MachineCount   Count="3" Machine1="1" Machine2="2" Machine3="4" />
+    <MachineLevel             Level1="1" Level2="3" Level3="4"/>
+    <Product        Count="1" Product1="7" />
+    <Product        Count="2" Product1="8" Product2="9" />
+    <Product        Count="3" Product1="10" Product2="10" Product3="12" />
+	</Mission4>
+  
+</MachineInfor>

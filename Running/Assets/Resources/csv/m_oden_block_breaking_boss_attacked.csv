@@ -1,0 +1,5 @@
+id,min_percent,max_percent,color
+1,0,20,red
+2,20,60,yellow
+3,60,80,green
+4,80,100,white
